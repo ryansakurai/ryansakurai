@@ -12,4 +12,4 @@
 
 ##
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=aura"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=midnight-purple"/>
