@@ -7,9 +7,9 @@
 - 👨‍💼 I'm a member of [Beets Jr.](https://www.beetsjr.com.br/)
 - 📚 Currently studying Java, Python, web front-end and overall CompSci topics
 
-<img align="right" alt="avatar" height="125" src="https://cdn.discordapp.com/attachments/217375748107796480/1036649387293683753/avatar_2_024036.png">
+<img align="right" height="125" src="images/avatar.png">
 <!--- Avatar source: https://picrew.me/image_maker/1115377 --->
 
-##
+---
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="120em" alt="language-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=midnight-purple"/>
