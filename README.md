@@ -5,7 +5,7 @@
 - 💻 I'm a Computer Science student
 - 👨‍🎓 I study at [Federal University of São Carlos](https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos)
 - 👨‍💼 I'm a member of [Beets Jr.](https://www.beetsjr.com.br/)
-- 📚 Currently studying Java, Python and overall CompSci topics
+- 📚 Currently studying Java, Python, web front-end and overall CompSci topics
 
 <img align="right" alt="avatar" height="125" src="https://cdn.discordapp.com/attachments/217375748107796480/1036649387293683753/avatar_2_024036.png">
 <!--- Avatar source: https://picrew.me/image_maker/1115377 --->
