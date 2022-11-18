@@ -7,7 +7,7 @@
 - 👨‍💼 I'm a member of [Beets Jr.](https://www.beetsjr.com.br/)
 - 📚 Currently studying Java, Python, web front-end and overall CompSci topics
 
-<img align="right" height="125" src="images/avatar.png">
+<img align="right" height="125" src="img/avatar.png">
 <!--- Avatar source: https://picrew.me/image_maker/1115377 --->
 
 ---
