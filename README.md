@@ -1,6 +1,6 @@
 ## Hello, my name is Ryan Sakurai :D
 
-- 🎂 I’m 19
+- 🎂 I’m 20
 - 🌎 I live in Sorocaba - SP, Brazil
 - 💻 I'm a Computer Science student
 - 👨‍🎓 I study at [Federal University of São Carlos](https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos)
