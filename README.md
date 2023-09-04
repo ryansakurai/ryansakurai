@@ -6,8 +6,9 @@
 - 👨‍🎓 I study at [Federal University of São Carlos](https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos)
 - 👨‍💼 I'm a member of [Beets Jr.](https://www.beetsjr.com.br/)
 
-<img align="right" height="125" src="img/avatar.png">
-<!--- Avatar source: https://picrew.me/image_maker/1115377 --->
+<img align="right" height="175" src="img/avatar.png">
+<!--- Avatar source: https://picrew.me/en/image_maker/1473879 --->
+<!--- Author: PotatoLord --->
 
 ---
 
