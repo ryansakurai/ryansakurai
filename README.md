@@ -6,7 +6,7 @@
 - 👨‍🎓 I study at [Federal University of São Carlos](https://en.wikipedia.org/wiki/Federal_University_of_S%C3%A3o_Carlos)
 - 👓 Currently studying Java and back-end development
 
-<img align="right" height="175" src="img/avatar.png">
+<img align="right" height="150" src="img/avatar.png">
 <!--- Avatar source: https://picrew.me/en/image_maker/1473879 --->
 <!--- Author: PotatoLord --->
 
