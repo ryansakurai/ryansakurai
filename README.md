@@ -12,4 +12,9 @@
 
 ---
 
-<img height="150em" alt="language-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=midnight-purple"/>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,nodejs,linux,postgres,md,git&theme=dark)](https://skillicons.dev)
+
+<details>
+  <summary> <strong>GitHub Stats</strong> </summary>
+  <img height="150em" alt="language-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryansakurai&layout=compact&langs_count=7&theme=midnight-purple"/>
+</details>
