@@ -13,5 +13,5 @@
 <br>
 
 <a href="https://skillicons.dev" target="_blank">
-  <img align="left" height="60" src="https://skillicons.dev/icons?i=java,spring,py,nodejs,postgres,linux,md,git&theme=dark">
+  <img align="left" height="60" src="https://skillicons.dev/icons?i=java,spring,py,nodejs,postgres,linux,git&theme=dark">
 </a>
