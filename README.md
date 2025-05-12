@@ -1,4 +1,4 @@
-## Hello, my name is Ryan Sakurai :D
+![Profile Banner](assets/banner.jpg)
 
 <a href="https://picrew.me/en/image_maker/1473879" target="_blank">
   <img align="right" height="150" src="assets/avatar.png">
